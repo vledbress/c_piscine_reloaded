@@ -3,15 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: vblxssv <vblxssv@student.42.fr>            +#+  +:+       +#+        */
+/*   By: vborysov <vborysov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/10 15:00:41 by vblxssv           #+#    #+#             */
-/*   Updated: 2025/11/10 15:00:52 by vblxssv          ###   ########.fr       */
+/*   Updated: 2025/11/10 15:29:31 by vborysov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-void ft_ft(int *nbr)
+void	ft_ft(int *nbr)
 {
-    *nbr = 42;
+	*nbr = 42;
 }
